@@ -1,0 +1,16 @@
+current directory: /Users/cagilinam/firma-isleri/Emarket/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+/usr/local/opt/ruby@2.7/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/cagilinam/firma-isleri/Emarket/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230904-17999-rnorx5 sitelibdir\=./.gem.20230904-17999-rnorx5 clean
+
+current directory: /Users/cagilinam/firma-isleri/Emarket/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230904-17999-rnorx5 sitelibdir\=./.gem.20230904-17999-rnorx5
+make: Nothing to be done for `all'.
+
+current directory: /Users/cagilinam/firma-isleri/Emarket/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230904-17999-rnorx5 sitelibdir\=./.gem.20230904-17999-rnorx5 install
+
+current directory: /Users/cagilinam/firma-isleri/Emarket/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230904-17999-rnorx5 sitelibdir\=./.gem.20230904-17999-rnorx5 clean
